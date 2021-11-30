@@ -50,12 +50,7 @@ public class FBLogin extends BaseClassMethods{
 	   System.out.println(title);
 	}
 
-	@Then("user should navigate to incorrect credential page")
-	public void user_should_navigate_to_incorrect_credential_page() {
-		 String currentUrl = driver.getCurrentUrl();
-		   Assert.assertTrue("verify the current page", currentUrl.contains("privacy"));
-	   
-	}
+	
 
 
 }

@@ -1,0 +1,96 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-11-30T08:29:36.895Z",
+        "line": 2,
+        "name": "validate with invalid username and invalid password",
+        "description": "",
+        "id": "to-validate-login-functionality-of-facebook;validate-with-invalid-username-and-invalid-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 8382195819,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user should launch the chrome browser",
+            "match": {
+              "location": "FBLogin.user_should_launch_the_chrome_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5415821552,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "user should type the url",
+            "match": {
+              "location": "FBLogin.user_should_type_the_url()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 171768147,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "user should maximise the window",
+            "match": {
+              "location": "FBLogin.user_should_maximise_the_window()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 207523711,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user should type the invalid username and invalid password",
+            "match": {
+              "location": "FBLogin.user_should_type_the_invalid_username_and_invalid_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 80652106,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should click the login button",
+            "match": {
+              "location": "FBLogin.user_should_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11517362430,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user should get the title of the incorrect credential page",
+            "match": {
+              "location": "FBLogin.user_should_get_the_title_o_fthe_incorrect_credential_page()"
+            },
+            "keyword": "And "
+          }
+        ]
+      }
+    ],
+    "name": "To validate login functionality of facebook",
+    "description": "",
+    "id": "to-validate-login-functionality-of-facebook",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/featurefile/FB_login.feature",
+    "tags": []
+  }
+]
