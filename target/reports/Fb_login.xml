@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="25.808944">
-<testcase classname="To validate login functionality of facebook" name="validate with invalid username and invalid password" time="25.808944">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="17.356054">
+<testcase classname="To validate login functionality of facebook" name="validate with invalid username and invalid password" time="17.356054">
 <system-out><![CDATA[Given user should launch the chrome browser.................................passed
 When user should type the url...............................................passed
 And user should maximise the window.........................................passed

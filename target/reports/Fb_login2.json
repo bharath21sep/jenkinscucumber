@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-11-30T08:29:36.895Z",
+        "start_timestamp": "2022-05-26T11:47:21.693Z",
         "line": 2,
         "name": "validate with invalid username and invalid password",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 8382195819,
+              "duration": 4122528750,
               "status": "passed"
             },
             "line": 3,
@@ -25,7 +25,7 @@
           },
           {
             "result": {
-              "duration": 5415821552,
+              "duration": 2198531801,
               "status": "passed"
             },
             "line": 4,
@@ -37,7 +37,7 @@
           },
           {
             "result": {
-              "duration": 171768147,
+              "duration": 141592557,
               "status": "passed"
             },
             "line": 5,
@@ -49,7 +49,7 @@
           },
           {
             "result": {
-              "duration": 207523711,
+              "duration": 219559267,
               "status": "passed"
             },
             "line": 6,
@@ -61,7 +61,7 @@
           },
           {
             "result": {
-              "duration": 80652106,
+              "duration": 80943963,
               "status": "passed"
             },
             "line": 7,
@@ -73,7 +73,7 @@
           },
           {
             "result": {
-              "duration": 11517362430,
+              "duration": 10553460324,
               "status": "passed"
             },
             "line": 8,
